@@ -4,16 +4,16 @@ This repository contains a login authentication webApp developed using HTML, CSS
 
 Features:
 
-Login with existing username and password.
-Register new users with unique credentials.
-Remember Me feature for convenience.
-Forgot Password link for resetting passwords.
-Secure page accessible upon successful login.
+1.Login with existing username and password.
+2.Register new users with unique credentials.
+3.Remember Me feature for convenience.
+4.Forgot Password link for resetting passwords.
+5.Secure page accessible upon successful login.
 
 Usage:
 
-Enter your username and password in the login form.
-Click "Login" to access the secure page.
-If you don't have an account, click "Register" to create one.
-Complete the registration form with a new username and password.
-Once registered, log in with your new credentials to access the secure page.
+1.Enter your username and password in the login form.
+2.Click "Login" to access the secure page.
+3.If you don't have an account, click "Register" to create one.
+4.Complete the registration form with a new username and password.
+5.Once registered, log in with your new credentials to access the secure page.
